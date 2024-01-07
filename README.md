@@ -1,4 +1,14 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurora1530&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/aurora1530/github-readme-stats)
+<p>
+    <a>
+    <img width="800px" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurora1530&theme=swift"/>
+  </a>
+  <a>
+    <img hight="190px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurora1530&show_icons=true&theme=swift&layout=donut"/>
+  </a>
+  <a>
+    <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api?username=aurora1530&show_icons=true&theme=swift"/>
+  </a>
+</p>
 
 <!--
 **aurora1530/aurora1530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
