@@ -9,11 +9,6 @@
     <img height="190px" align="center" src="https://github-readme-stats.vercel.app/api?username=aurora1530&show_icons=true&theme=swift"/>
   </a>
 </p>
-
-game
-
-- https://aurora1530.github.io/roguelike-shooting/
-
 <!--
 **aurora1530/aurora1530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
